@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ManPediaModule:war">
+    <output-path>$PROJECT_DIR$/../target</output-path>
+    <root id="archive" name="ManPedia.war">
+      <element id="artifact" artifact-name="ManPediaModule:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/WEB-INF/Decorators">
+
+    <decorator name="admin" page="Admin/Admin.jsp">
+        <pattern>/manpediaadmin*</pattern>
+    </decorator>
+
+    <decorator name="web" page="Web/Web.jsp">
+        <pattern>/</pattern>
+        <pattern>/index</pattern>
+    </decorator>
+
+</decorators>

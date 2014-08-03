@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /ad
+Disallow: /api
+Disallow: /search
+Disallow: /fresh
+Disallow: /section
+Disallow: /mycenter
+Sitemap: http://www.genius.me/index.sitemap
